@@ -28,13 +28,13 @@ cd URLShortener
 
 Navigate to the backend directory and install dependencies:
 
-- cd backend
+- cd url-shortener-backend
 - npm install
 
 ## Frontend Setup
 In a new terminal, navigate to the frontend directory and install dependencies:
 
-- cd frontend
+- cd url-shortener-frontend
 - npm install
 
 ## Environment Configuration
