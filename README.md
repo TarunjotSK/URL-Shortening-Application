@@ -22,6 +22,7 @@ This URL Shortener is a full-stack application that allows users to shorten long
 #### Clone the Repository
 
 git clone [https://github.com/your-username/URLShortener.git](https://github.com/SNIGDHA-PANDEY/URLShortener)
+
 cd URLShortener
 
 ## Backend Setup
